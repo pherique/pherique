@@ -23,7 +23,7 @@
 
 
 ## 🌐 Contact Me  
-📩 **E-mail:** youremail@email.com  
+📩 **E-mail:** phenrique.sduarte@gmail.com 
 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-silva-duarte-1a26171b4/)  
  
 
