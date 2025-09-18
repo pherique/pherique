@@ -1,7 +1,7 @@
 👋 Hi, I'm Pedro Henrique  
 
 🚀 I transitioned into **Technology** and I'm currently focused on **Java with Spring Boot**.  
-💻 I work as an **intern**, developing and improving my back-end skills.  
+💻 I currently work as an intern in the task automation area in an accounting office.  
 🐍 I also have some knowledge of **Python**, especially for automation and programming logic.  
 
 ---
